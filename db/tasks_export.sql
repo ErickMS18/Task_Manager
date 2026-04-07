@@ -1,3 +1,7 @@
+DROP DATABASE IF EXISTS task_manager;
+CREATE DATABASE task_manager;
+USE task_manager;
+
 -- MySQL dump 10.13  Distrib 8.0.45, for Win64 (x86_64)
 --
 -- Host: localhost    Database: task_manager
