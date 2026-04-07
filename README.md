@@ -116,8 +116,8 @@ A tabela `tasks` possui:
 ### 1. Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio>
-cd nome-do-projeto
+git clone https://github.com/ErickMS18/Task_Manager.git
+cd Task_Manager
 ```
 
 ---
