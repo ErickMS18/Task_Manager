@@ -145,6 +145,28 @@ Após isso, o banco `task_manager` estará pronto para uso.
 
 ---
 
+### ⚠️ Configuração Importante
+
+Antes de iniciar o back-end, é necessário ajustar a senha do banco de dados:
+
+* Acesse o arquivo:
+
+```
+backend/db/db.js
+```
+
+* Altere o campo de senha (`password`) para a mesma senha utilizada no seu MySQL (ex: a configurada no MySQL Workbench).
+
+Exemplo:
+
+```js
+password: "SUA_SENHA_AQUI"
+```
+
+Sem essa configuração, a conexão com o banco de dados não será estabelecida corretamente.
+
+---
+
 ### 3. Rodar o Back-end
 
 ```bash
