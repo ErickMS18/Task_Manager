@@ -228,10 +228,6 @@ function TaskCrud() {
       <div className="taskcrud-footer">
         <button className="btnVoltar" onClick={() => navigate("/")}>Voltar</button>
       </div>
-
-      <div className="taskcrud-nome">
-        Desenvolvido por Erick Maestri de Souza
-      </div>
     </div>
   );
 }
