@@ -1,10 +1,10 @@
-# 📋 Sistema de Gerenciamento de Tarefas (CRUD)
+# Sistema de Gerenciamento de Tarefas (CRUD)
 
 Este projeto é uma aplicação full stack desenvolvida com foco em demonstrar conhecimentos em desenvolvimento web, integração entre front-end e back-end e manipulação de banco de dados.
 
 ---
 
-## 📌 Requisitos
+## Requisitos
 
 Antes de rodar o projeto, é necessário ter instalado:
 
@@ -14,7 +14,7 @@ Antes de rodar o projeto, é necessário ter instalado:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Front-end
 
@@ -30,7 +30,7 @@ Antes de rodar o projeto, é necessário ter instalado:
 
 ---
 
-## 📦 Funcionalidades
+## Funcionalidades
 
 * Criar tarefas
 * Listar tarefas
@@ -41,7 +41,7 @@ Antes de rodar o projeto, é necessário ter instalado:
 
 ---
 
-## 🧠 Como o Sistema Funciona
+## Como o Sistema Funciona
 
 A aplicação segue o padrão cliente-servidor:
 
@@ -97,7 +97,7 @@ Esse arquivo contém:
 
 ---
 
-### 🧩 Estrutura da Tabela
+### Estrutura da Tabela
 
 A tabela `tasks` possui:
 
@@ -111,7 +111,7 @@ A tabela `tasks` possui:
 
 ---
 
-## ⚙️ Como Rodar o Projeto
+## Como Rodar o Projeto
 
 ### 1. Clonar o repositório
 
