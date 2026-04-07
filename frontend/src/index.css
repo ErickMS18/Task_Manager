@@ -1,0 +1,33 @@
+:root {
+  --bg-main: #4a48b6;
+  --bg-container: #f8fafc;
+  --card-bg: #ffffff;
+
+  --primary: #3b82f6;
+  --danger: #ef4444;
+
+  --text-main: #1e293b;
+  --text-secondary: #64748b;
+
+  --border: #e2e8f0;
+
+  --radius: 12px;
+  --radius-sm: 8px;
+
+  --shadow: 0 4px 12px rgba(0,0,0,0.08);
+  --shadow-strong: 0 10px 25px rgba(0,0,0,0.12);
+
+  --transition: all 0.2s ease;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+}
