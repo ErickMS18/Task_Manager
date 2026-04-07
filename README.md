@@ -176,20 +176,3 @@ http://localhost:5173
 ```
 
 ---
-
-## 🔗 Integração
-
-O front-end consome a API utilizando o fetch nativo do JavaScript.
-
-Exemplo baseado no funcionamento real do projeto:
-
-```javascript
-fetch(`http://localhost:8800/tasks?task_status=Pendente&limit=10&offset=0`)
-```
-
-A aplicação também utiliza:
-
-* Filtros por status (Pendente, Andamento, Concluída)
-* Paginação com limit e offset
-
----
