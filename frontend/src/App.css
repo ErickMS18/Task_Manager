@@ -1,0 +1,21 @@
+.container {
+  background: var(--bg-container);
+  width: 95%;
+  max-width: 1200px;
+
+  margin: 30px auto;
+  padding: 20px;
+
+  border-radius: 12px;
+  box-sizing: border-box;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+.container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: var(--text-main);
+}
